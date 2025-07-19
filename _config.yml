@@ -1,5 +1,7 @@
-title: "thetechnotez"
-description: "Personal site of Zahra - Notes, Projects & Experiments"
+locale: fa-IR
+title: نوت‌بوک تکنولوژی زهرا
+description: یادداشت‌ها، پروژه‌ها و تجربه‌ها در دنیای ابزار دقیق و الکترونیک
+
 baseurl: "" 
 url: "https://thetechnotez.github.io"
 
