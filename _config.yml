@@ -3,16 +3,16 @@ title: نوت‌بوک تکنولوژی زهرا
 description: یادداشت‌ها، پروژه‌ها و تجربه‌ها در دنیای ابزار دقیق و الکترونیک
 
 baseurl: "" 
-url: "https://thetechnotez.github.io"
+url: https://thetechnotez.github.io
 
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
 
 author:
-  name: "Zahra"
+  name: Zahra
   avatar: /assets/images/avatar.png
-  bio: "Instrumentation Systems Designer | Learning FPGA | Writing my notes here."
+  bio: Instrumentation Systems Designer | Learning FPGA | Writing my notes here.
 
 # Build settings
 markdown: kramdown
