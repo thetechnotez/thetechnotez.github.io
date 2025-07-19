@@ -1,7 +1,9 @@
 ---
 layout: home
 author_profile: true
+title: خانه
 ---
 
-Welcome to my lab notes, thoughts, and experiments.  
-Stay tuned ✨
+به وب‌سایت من خوش آمدید.
+
+اینجا جاییه که تجربه‌هام در طراحی سیستم‌های تست، الکترونیک، و ابزار دقیق رو باهاتون به اشتراک می‌ذارم.
