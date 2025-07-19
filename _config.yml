@@ -1,0 +1,20 @@
+title: "thetechnotez"
+description: "Personal site of Zahra - Notes, Projects & Experiments"
+baseurl: "" 
+url: "https://thetechnotez.github.io"
+
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Zahra Kamran"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Instrumentation Systems Designer | Learning FPGA | Writing my notes here."
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# SEO
+logo: "/assets/images/logo.png"
