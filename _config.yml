@@ -8,7 +8,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Zahra Kamran"
+  name: "Zahra"
   avatar: "/assets/images/profile.jpg"
   bio: "Instrumentation Systems Designer | Learning FPGA | Writing my notes here."
 
