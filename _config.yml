@@ -11,7 +11,7 @@ plugins:
 
 author:
   name: "Zahra"
-  avatar: "/assets/images/profile.jpg"
+  avatar: "/assets/images/avatar.png"
   bio: "Instrumentation Systems Designer | Learning FPGA | Writing my notes here."
 
 # Build settings
